@@ -4,6 +4,13 @@ A developer tool for simulating borrowing scenarios in Morpho Blue markets. Visu
 
 ![Example Output](./img/image.png)
 
+## Important Notes
+
+- Those scripts are for educational purposes only.
+- It is not expected that the contributor(s) of this repository will be available to provide more support.
+- The code is not optimized for performance and could be improved.
+- There might be aslight difference between this code results and the future Front-End computation as the internal algo might be subject to changes.
+
 ## What This Tool Does
 
 This simulator helps you:
@@ -93,4 +100,4 @@ It then simulates different borrowing scenarios and calculates the resulting met
 
 ## License
 
-MIT
+See LICENSE file

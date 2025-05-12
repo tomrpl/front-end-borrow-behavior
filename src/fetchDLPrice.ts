@@ -1,5 +1,5 @@
 import { getAddress } from "viem";
-import { getCurrentTimestamp } from "../utils.js";
+import { getCurrentTimestamp } from "./utils.js";
 
 export interface DefiLlamaResponse {
   coins: {
